@@ -77,3 +77,17 @@ a {
 hr {
   border-top: 1px solid $border-color;
 }
+
+.card {
+    margin-bottom: 1.5rem;
+}
+
+.tab-content {
+    margin-top: -1px;
+    background: #fff;
+    border: 1px solid #c8ced3;
+    border-radius: 0 0 .25rem .25rem;
+}
+.tab-content .tab-pane {
+    padding: 1rem;
+}
